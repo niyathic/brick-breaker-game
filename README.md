@@ -79,3 +79,5 @@
   whether the saved game had already been lost or won. File I/O provides a quick and efficient way to
   save and load this data and update the game state to a past one accordingly. load() can even be used to
   load a past game after quitting the program and re-running it.
+  
+  Feel free to use this code for personal use. For commercial use please contact niyathic.
